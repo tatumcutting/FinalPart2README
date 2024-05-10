@@ -1,9 +1,7 @@
 # FinalPart2README
 Tip Calculator
-
-This project was written for my final of my Advanced Visual Basic Programming class for Spring 2024.
-Within this project a user can enter an amount and it will calcualte a tip for 10, 15, 20, and 25 percent. 
-
+## This project was written for my final of my Advanced Visual Basic Programming class for Spring 2024.
+### Within this project a user can enter an amount and it will calcualte a tip for 10, 15, 20, and 25 percent. 
 
 Public Class TipCalculator
     Private Sub btnCalculate_Click(sender As Object, e As EventArgs) Handles btnCalculate.Click
@@ -54,4 +52,4 @@ Public Class TipCalculator
 End Class
 
 
-Thank you for viewing my project!
+#### Thank you for viewing my project!
